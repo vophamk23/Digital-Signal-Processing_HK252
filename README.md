@@ -1,9 +1,4 @@
-Dựa vào file báo cáo bạn vừa cung cấp, mình đã cập nhật lại file `README.md` để bám sát chính xác nội dung, tên bài Lab và các thành viên trong nhóm của bạn. 
-
-Bạn có thể copy đoạn code dưới đây và dán trực tiếp vào file `README.md` trên GitHub của mình:
-
-```markdown
-# [cite_start]📡 Xử Lý Tín Hiệu Số (CO2036) - HK252 [cite: 4, 7]
+# Xử Lý Tín Hiệu Số (CO2036) - HK252 
 
 ## 📖 Giới thiệu
 [cite_start]Chào mừng bạn đến với repository lưu trữ mã nguồn và báo cáo thực hành môn **Xử Lý Tín Hiệu Số (Digital Signal Processing - DSP)**[cite: 40]. [cite_start]Các bài thực hành này được thực hiện tại Khoa Khoa học & Kỹ thuật Máy tính, Trường Đại học Bách Khoa - ĐHQG TP.HCM (HCMUT)[cite: 1, 2, 12, 13].
