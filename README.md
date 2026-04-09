@@ -28,7 +28,7 @@ Dưới đây là quy trình chuẩn để các thành viên trong nhóm kéo co
 
 ### 🔹 Bước 1: Clone repository về máy
 ```bash
-git clone [https://github.com/USERNAME/Digital-Signal-Processing_HK252.git](https://github.com/USERNAME/Digital-Signal-Processing_HK252.git)
+git clone https://github.com/vophamk23//Digital-Signal-Processing_HK252.git
 cd Digital-Signal-Processing_HK252
 ```
 
