@@ -1,11 +1,9 @@
 # Xử Lý Tín Hiệu Số (CO2036) - HK252 
 
 ## 📖 Giới thiệu
-[cite_start]Chào mừng bạn đến với repository lưu trữ mã nguồn và báo cáo thực hành môn **Xử Lý Tín Hiệu Số (Digital Signal Processing - DSP)**[cite: 40]. [cite_start]Các bài thực hành này được thực hiện tại Khoa Khoa học & Kỹ thuật Máy tính, Trường Đại học Bách Khoa - ĐHQG TP.HCM (HCMUT)[cite: 1, 2, 12, 13].
+Chào mừng bạn đến với repository lưu trữ mã nguồn và báo cáo thực hành môn **Xử Lý Tín Hiệu Số (Digital Signal Processing - DSP)**[cite: 40]. [cite_start]Các bài thực hành này được thực hiện tại Khoa Khoa học & Kỹ thuật Máy tính, Trường Đại học Bách Khoa - ĐHQG TP.HCM (HCMUT)[cite: 1, 2, 12, 13].
 
-[cite_start]Repository này sử dụng phần mềm mã nguồn mở **Scilab** để tính toán số, xử lý ma trận và trực quan hóa dữ liệu tín hiệu[cite: 43].
-
----
+Repository này sử dụng phần mềm mã nguồn mở **Scilab** để tính toán số, xử lý ma trận và trực quan hóa dữ liệu tín hiệu[cite: 43].
 
 ## 📂 Cấu trúc Repository & Nội dung các Lab
 
@@ -62,7 +60,6 @@ git push -u origin lab2
 * **Không** thao tác trực tiếp trên nhánh `main`.
 * Luôn kiểm tra mình đang ở đúng nhánh trước khi commit (`git branch`).
 
----
 
 ## 👨‍💻 Thông tin nhóm thực hiện
 **Môn học:** Xử lý tín hiệu số (CO2036) 
