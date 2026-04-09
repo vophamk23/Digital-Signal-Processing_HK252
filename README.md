@@ -11,16 +11,16 @@
 
 Mỗi bài thực hành (Lab) được quản lý trên một **branch riêng biệt** để dễ dàng theo dõi mã nguồn và báo cáo:
 
-### [cite_start]🌿 `lab1` - Digital Signal Processing with Scilab: Sampling and Quantization Analysis [cite: 5, 6]
-* [cite_start]Làm quen với môi trường lập trình tính toán khoa học Scilab[cite: 54].
-* [cite_start]Thực hiện các phép toán cơ bản trên vector và ma trận[cite: 55].
-* [cite_start]Mô phỏng và trực quan hóa tín hiệu tương tự $x_a(t)$, tín hiệu rời rạc $x(n)$[cite: 61].
-* [cite_start]Phân tích quá trình lấy mẫu và lượng tử hóa tín hiệu $x_q(n)$ (sử dụng phương pháp cắt bỏ - Truncation với bước lượng tử $\Delta=0.1$) trong hệ thống ADC[cite: 57, 241, 453].
+### `lab1` - Digital Signal Processing with Scilab: Sampling and Quantization Analysis [cite: 5, 6]
+* Làm quen với môi trường lập trình tính toán khoa học Scilab[cite: 54].
+* Thực hiện các phép toán cơ bản trên vector và ma trận[cite: 55].
+* Mô phỏng và trực quan hóa tín hiệu tương tự $x_a(t)$, tín hiệu rời rạc $x(n)$[cite: 61].
+* Phân tích quá trình lấy mẫu và lượng tử hóa tín hiệu $x_q(n)$ (sử dụng phương pháp cắt bỏ - Truncation với bước lượng tử $\Delta=0.1$) trong hệ thống ADC[cite: 57, 241, 453].
 
-### [cite_start]🌿 `lab2` - Discrete-Time Signal Analysis and Manipulation Using Scilab [cite: 679, 680]
-* [cite_start]Tìm hiểu và mô phỏng các tín hiệu rời rạc cơ bản: tín hiệu xung đơn vị (unit impulse), tín hiệu bước đơn vị (unit step), và tín hiệu dốc (unit ramp)[cite: 714, 722].
-* [cite_start]Phân tích các thuộc tính của tín hiệu: tính tuần hoàn, năng lượng, công suất trung bình, và tính đối xứng (phân tích thành phần chẵn $x_e(n)$ và thành phần lẻ $x_o(n)$)[cite: 723, 773, 774, 775, 776, 778].
-* [cite_start]Thực hiện các phép biến đổi tín hiệu: dịch thời gian (delay/advance), gập tín hiệu (folding), thay đổi biên độ (amplitude scaling), thực hiện phép cộng và phép nhân hai tín hiệu rời rạc[cite: 724, 781].
+### `lab2` - Discrete-Time Signal Analysis and Manipulation Using Scilab [cite: 679, 680]
+* Tìm hiểu và mô phỏng các tín hiệu rời rạc cơ bản: tín hiệu xung đơn vị (unit impulse), tín hiệu bước đơn vị (unit step), và tín hiệu dốc (unit ramp).
+* Phân tích các thuộc tính của tín hiệu: tính tuần hoàn, năng lượng, công suất trung bình, và tính đối xứng (phân tích thành phần chẵn $x_e(n)$ và thành phần lẻ $x_o(n)$).
+* Thực hiện các phép biến đổi tín hiệu: dịch thời gian (delay/advance), gập tín hiệu (folding), thay đổi biên độ (amplitude scaling), thực hiện phép cộng và phép nhân hai tín hiệu rời rạc.
 
 ---
 
@@ -65,10 +65,10 @@ git push -u origin lab2
 ---
 
 ## 👨‍💻 Thông tin nhóm thực hiện
-* [cite_start]**Môn học:** Xử lý tín hiệu số (CO2036) [cite: 678]
-* [cite_start]**Lớp:** L03 - Học Kỳ HK252 [cite: 681]
-* [cite_start]**Giảng viên hướng dẫn:** Thầy Phạm Công Thái [cite: 682]
+**Môn học:** Xử lý tín hiệu số (CO2036) 
+**Lớp:** L03 - Học Kỳ HK252 
+* **Giảng viên hướng dẫn:** Thầy Phạm Công Thái 
 * **Thành viên thực hiện:**
-    * [cite_start]Phạm Công Võ - MSSV: 2313946 [cite: 683]
-    * [cite_start]Nguyễn Anh Thư - MSSV: 2313385 [cite: 683]
+    * Phạm Công Võ - MSSV: 2313946 
+    * Nguyễn Anh Thư - MSSV: 2313385 
 ```
