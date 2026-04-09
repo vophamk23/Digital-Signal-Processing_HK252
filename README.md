@@ -47,7 +47,7 @@ git checkout -b lab2
 *(Ví dụ bạn đang ở nhánh `lab2`)*
 ```bash
 git add .
-git commit -m "feat(lab2): thêm code biểu diễn tín hiệu Unit Ramp và Unit Step"
+git commit -m "lab2"
 ```
 
 ### 🔹 Bước 4: Push nhánh lên GitHub
